@@ -1,0 +1,1 @@
+An implementation of the popular Belot game in order to train OOP concepts.
